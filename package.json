@@ -1,0 +1,22 @@
+{
+  "name": "testapijest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzfree/TestApiJest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzfree/TestApiJest/issues"
+  },
+  "homepage": "https://github.com/zzzfree/TestApiJest#readme",
+  "dependencies": {
+    "jest": "^23.4.2"
+  }
+}
